@@ -1,47 +1,28 @@
-# Hi there, I'm Yang Lynn 👋
+# Yang Lynn
+Founding member @ SkyPhy | Canberra, Australia
 
-**AI Researcher @ ANU | Founding Member @ SkyPhy | iOS & Applied AI Developer**
-
-I bridge the gap between **Hardcore AI Infrastructure (GPU Clusters / RDMA)** and **User-Centric Applications (iOS Health Tech / AI Tools)**. Currently pursuing Artificial Intelligence at The Australian National University.
-
----
-
-### 🚀 What I Do
-
-- ⚡ **AI Infrastructure (@SkyPhy)**: Building and scaling high-performance GPU clusters, RDMA networking, and optimizing Large Language Model (LLM) deployments.
-- 🍏 **Health Tech & iOS (Motivue)**: Developing comprehensive health tracking apps focusing on Neural Fatigue, HRV, and physiological algorithms using Swift.
-- 🤖 **AI Tooling & Automation**: Creator of **Hopper** (Intelligent Document Processing) and **VidNote** (Real-time Speech Recognition & Video Notes).
-- 📈 **Algorithmic Trading**: Building automated trading bots (Clawdbot) integrating Web3, CCXT, and quantitative strategies.
-
-### 🛠 Tech Stack
-
-**Languages:**  
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-**AI & Infrastructure:**  
-![LLM Deployment](https://img.shields.io/badge/-LLM_Deployment-000000?style=flat-square&logo=openai&logoColor=white)
-![GPU Clusters](https://img.shields.io/badge/-GPU_Clusters_&_RDMA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data_Science-FF6F00?style=flat-square&logo=jupyter&logoColor=white)
-
-**Tools & Frameworks:**  
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![HealthKit](https://img.shields.io/badge/-HealthKit-E02041?style=flat-square&logo=apple&logoColor=white)
+GPU cluster building, RDMA networking & AI large model deployment. Builder of iOS health tech and intelligent document platforms. Master of AI candidate at The Australian National University (ANU).
 
 ---
 
-### 🌱 Currently
+### What I Do
+- **SkyPhy** — GPU cluster building, RDMA networking, GPU leasing & inference optimization. Scaling AI infrastructure for the Australian market. [skyphy.org](https://skyphy.org)
+- **Motivue** — Focuses on neural fatigue, HRV analysis, and physiological algorithms. Built complete iOS architecture with smart wearable synchronization.
+- **Hopper** — Intelligent document processing platform supporting multi-format inputs, smart data extraction, and structural conversion.
+- **Production AI systems** — Building video/audio real-time transcription systems (VidNote) and algorithmic trading bots integrating quantitative strategies.
 
-- 🎓 Pursuing Master of **Artificial Intelligence** at **The Australian National University (ANU)**
-- 🏗️ Researching Generative Engine Optimization (GEO) & RAG retrieval mechanisms
-- 💻 Building the ultimate iOS physiological tracking experience
+### Tech
+Languages: Python, Go, JavaScript/TypeScript, C, Swift
+AI/ML: Claude Code, OpenClaw, MCP Protocol, RAG, Multi-Model Orchestration
+Infra: Docker, PostgreSQL, Tailscale, Linux, RDMA/InfiniBand
 
-### 📫 How to reach me
-- **LinkedIn**: [Yang Lynn](https://www.linkedin.com/in/yang-lynn-1426793bb/)
-- **Email**: [随时替换成您的邮箱地址]
+### Currently
+- Building AI infrastructure at SkyPhy for the Australian market
+- Engaging with Canberra government entities to explore applied AI solutions
+- Contributing to open-source AI tooling (Claude Code, OpenClaw)
+- Growing the Canberra AI community
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pilinmw&show_icons=true&theme=radical&hide_border=true" alt="pilinmw's GitHub Stats" />
-</p>
+### Links
+- Email: [dagmarrodriguez381@gmail.com](mailto:dagmarrodriguez381@gmail.com)
+- LinkedIn: [Yang Lynn](https://www.linkedin.com/in/yang-lynn-1426793bb/)
+- GitHub: [pilinmw](https://github.com/pilinmw)
