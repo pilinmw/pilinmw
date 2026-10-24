@@ -1,4 +1,4 @@
-# Yang Lynn
+# Sean Yang 
 Founding member @ SkyPhy | Canberra, Australia
 
 🐸 **[pilinmw.github.io](https://pilinmw.github.io)** — pilinmw, my one-person applied AI lab: agent-built products, infrastructure and research notes.
