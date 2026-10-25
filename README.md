@@ -28,6 +28,6 @@ Infra: Docker, PostgreSQL, Tailscale, Linux, RDMA/InfiniBand
 
 ### Links
 - Email: [dagmarrodriguez381@gmail.com](mailto:dagmarrodriguez381@gmail.com)
-- LinkedIn: [Yang Lynn](https://www.linkedin.com/in/yang-lynn-1426793bb/)
+- LinkedIn: [Sean Yang](https://www.linkedin.com/in/sean-yang-1426793bb)
 - Website: [pilinmw.github.io](https://pilinmw.github.io)
 - GitHub: [pilinmw](https://github.com/pilinmw)
