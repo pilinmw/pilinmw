@@ -8,11 +8,9 @@ GPU cluster building, RDMA networking & AI large model deployment. Builder of iO
 ---
 
 ### What I Do
-- **去哪留** — Study-abroad school guide with a built-in agent assistant (小留子): tool calling, pgvector retrieval, guardrails against invented figures, 44 offline tests.
 - **SIAH** — Co-founded with Zack: a community for people exploring AI, technology and entrepreneurship through real projects.
 - **SkyPhy** — GPU cluster building, RDMA networking, GPU leasing & inference optimization. Scaling AI infrastructure for the Australian market. [skyphy.org](https://skyphy.org)
 - **Motivue** — Focuses on neural fatigue, HRV analysis, and physiological algorithms. Built complete iOS architecture with smart wearable synchronization.
-- **Hopper** — Intelligent document processing platform supporting multi-format inputs, smart data extraction, and structural conversion.
 - **Production AI systems** — Building video/audio real-time transcription systems (VidNote) and algorithmic trading bots integrating quantitative strategies.
 
 ### Tech
